@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "New Tab",
-  "description": "Open a blank page instead of the browser's default",
+  "description": "Replaces the browser new tab page with a blank page",
   "version": "1.0.0",
   "icons": {
     "16": "icon-16x16.png",
