@@ -4,7 +4,7 @@ Replaces Chrome/Edge new tab page with a blank page.
 
 ## Installing
 
-See https://chrome.google.com/webstore/detail/new-tab/iiagnelkibinfildnlifpbgdoifdppcl/related
+See https://chrome.google.com/webstore/detail/new-tab/iiagnelkibinfildnlifpbgdoifdppcl
 
 ## Contributing
 
