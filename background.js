@@ -1,3 +1,3 @@
-chrome.browserAction.onClicked.addListener(function() {
+chrome.browserAction.onClicked.addListener(() => {
   chrome.tabs.create({});
 });
