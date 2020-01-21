@@ -9,7 +9,7 @@ textarea.addEventListener("input", () => {
 });
 
 window.onload = () => {
-  textarea.value = localStorage.getItem("content")
+  textarea.value = localStorage.getItem("content");
 };
 
 chrome.runtime.onMessage.addListener(request => {
